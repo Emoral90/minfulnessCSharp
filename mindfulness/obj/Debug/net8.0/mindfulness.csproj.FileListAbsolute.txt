@@ -1,0 +1,15 @@
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\bin\Debug\net8.0\mindfulness.exe
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\bin\Debug\net8.0\mindfulness.deps.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\bin\Debug\net8.0\mindfulness.runtimeconfig.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\bin\Debug\net8.0\mindfulness.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\bin\Debug\net8.0\mindfulness.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.AssemblyInfoInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.AssemblyInfo.cs
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.csproj.CoreCompileInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.sourcelink.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\refint\mindfulness.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\mindfulness.genruntimeconfig.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\minfulnessCSharp\mindfulness\obj\Debug\net8.0\ref\mindfulness.dll
