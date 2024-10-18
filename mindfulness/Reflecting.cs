@@ -1,3 +1,5 @@
+using System;
+
 public class ReflectingActivity : Activity
 {
     private List<string> _prompts = new List<string>

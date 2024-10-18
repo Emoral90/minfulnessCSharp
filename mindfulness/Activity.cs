@@ -1,4 +1,5 @@
-using System
+using System;
+using System.IO;
 
 public abstract class Activity
 {
@@ -34,7 +35,7 @@ public abstract class Activity
         for (int i = 0; i < seconds; i++)
         {
             Console.Write(".");
-            System.Threading.Thread.Sleep(1000); // Simulate a pause
+            System.Threading.Thread.Sleep(1000);
         }
         Console.WriteLine();
     }
@@ -48,6 +49,5 @@ public abstract class Activity
         }
     }
 
-    // Abstract method to be implemented by derived classes
     public abstract void Run();
 }
